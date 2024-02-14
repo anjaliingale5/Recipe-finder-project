@@ -52,6 +52,6 @@ The Food App was developed using HTML, CSS, and JavaScript to create a dynamic a
 To deploy this project run
 
 ```bash
-  https://anveshdikondwar.github.io/Food-App/index.html
+ https://anjaliingale5.github.io/Recipe-finder-project/
 ```
 
